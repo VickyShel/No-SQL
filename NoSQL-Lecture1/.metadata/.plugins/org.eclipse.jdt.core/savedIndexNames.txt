@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\DataBase System\NoSQL-Lecture1\.metadata\.plugins\org.eclipse.jdt.core
+1901198192.index
+2947684769.index
