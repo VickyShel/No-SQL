@@ -1,0 +1,52 @@
+[
+    {
+      "counterName": "IncreaseCnt",
+      "counterIndex": "1",
+      "type": "num",
+      "keyFields": ["UserCnt","UserFreq","UserInSet","UserInZSet","UserInList"],
+      "valueFields": "1"
+    },
+    {
+      "counterName": "DecreaseCnt",
+      "counterIndex": "2",
+      "type": "num",
+      "keyFields": ["UserCnt","UserOutSet","UserOutZSet","UserOutList"],
+      "valueFields": "1"
+    },
+    {
+      "counterName": "showUserCnt",
+      "counterIndex": "3",
+      "type": "num",
+      "keyFields": "UserCnt"
+    },
+    {
+      "counterName": "showAllUserFreq",
+      "counterIndex": "4",
+      "type": "hash",
+      "keyFields": "UserFreq"
+    },
+    {
+      "counterName": "showSpecificUserFreq",
+      "counterIndex": "5",
+      "type": "hash",
+      "keyFields": "UserFreq",
+      "valueFields": "202011301300-202011301600"
+    },
+    {
+      "counterName": "showAllExitUserFreq",
+      "counterIndex": "6",
+      "type": "hash",
+      "keyFields": "UserFreq"
+    },
+    {
+      "counterName": "showSpecificExitUserFreq",
+      "counterIndex": "7",
+      "type": "hash",
+      "keyFields": "UserFreq",
+      "valueFields": "202011301300-202011302100"
+    },
+    {
+      "counterName": "deleteAllData",
+      "counterIndex": "8"
+    }
+]

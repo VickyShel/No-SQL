@@ -1,0 +1,80 @@
+[
+    {
+      "actionName": "Increase_User_Num",
+      "actionIndex": "1",
+      "action": [
+        {
+          "counterName": "showUserCnt"
+        },
+        {
+          "counterName": "IncreaseCnt"
+        }
+      ]
+    },
+    {
+      "actionName": "Decrease_User_Num",
+      "actionIndex": "2",
+      "action": [
+        {
+          "counterName": "showUserCnt"
+        },
+        {
+          "counterName": "DecreaseCnt"
+        }
+      ]
+    },
+    {
+      "actionName": "Show_User_Num",
+      "actionIndex": "3",
+      "action": [
+        {
+          "counterName": "showUserCnt"
+        }
+      ]
+    },
+    {
+      "actionName": "Show_AllUser_Freq",
+      "actionIndex": "4",
+      "action": [
+        {
+          "counterName": "showAllUserFreq"
+        }
+      ]
+    },
+    {
+      "actionName": "Show_SpecificUser_Freq",
+      "actionIndex": "5",
+      "action": [
+        {
+          "counterName": "showSpecificUserFreq"
+        }
+      ]
+    },
+    {
+      "actionName": "Show_All_ExitUser_Freq",
+      "actionIndex": "6",
+      "action": [
+        {
+          "counterName": "showAllExitUserFreq"
+        }
+      ]
+    },
+    {
+      "actionName": "Show_Specific_ExitUser_Freq",
+      "actionIndex": "6",
+      "action": [
+        {
+          "counterName": "showSpecificExitUserFreq"
+        }
+      ]
+    },
+    {
+      "actionName": "Delete_All_Data",
+      "actionIndex": "6",
+      "action": [
+        {
+          "counterName": "deleteAllData"
+        }
+      ]
+    }
+]
